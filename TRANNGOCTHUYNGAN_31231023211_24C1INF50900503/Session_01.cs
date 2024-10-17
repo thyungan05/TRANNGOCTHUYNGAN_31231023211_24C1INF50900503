@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/*namespace TRANNGOCTHUYNGAN_31231023211_24C1INF50900503
+namespace TRANNGOCTHUYNGAN_31231023211_24C1INF50900503
 {
-    public class Session_01
+    internal class Session_01
     {
         public static void Main()
         {
@@ -150,5 +150,5 @@ using System.Threading.Tasks;
 
         }
     }
-}*/
+}
 
