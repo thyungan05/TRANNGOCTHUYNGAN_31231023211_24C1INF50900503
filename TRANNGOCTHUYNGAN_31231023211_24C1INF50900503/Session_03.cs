@@ -43,7 +43,7 @@ namespace TRANNGOCTHUYNGAN_31231023211_24C1INF50900503
             Console.Write("Nhap vao khoang cach (km): ");
             int distance = int.Parse(Console.ReadLine());
             double kmh = (double) distance / (hours + (minutes/60.0f) + (seconds/3600.0f));
-            double mih = kmh / 1.609344;
+            double mih = kmh / 1.609344; //đổi từ km sang dặm
             Console.WriteLine($"Toc do theo km/h = {kmh}");
             Console.WriteLine($"Toc do theo miles/h = {mih}");
         }
