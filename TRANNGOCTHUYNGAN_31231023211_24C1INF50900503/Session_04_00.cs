@@ -8,7 +8,7 @@ namespace TRANNGOCTHUYNGAN_31231023211_24C1INF50900503
 {
     internal class Session_04_00
     {
-        public static void Main()
+        public static void Main4()
         {
             Session04_00();
         }
