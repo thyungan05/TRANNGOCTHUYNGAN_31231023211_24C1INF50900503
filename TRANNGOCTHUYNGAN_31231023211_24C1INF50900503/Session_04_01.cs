@@ -8,7 +8,7 @@ namespace TRANNGOCTHUYNGAN_31231023211_24C1INF50900503
 {
     internal class Session_04_01
     {
-        public static void Main3()
+        public static void Main4_1()
         {
             //Session04_01();
             Session04_02();
@@ -48,7 +48,7 @@ namespace TRANNGOCTHUYNGAN_31231023211_24C1INF50900503
             {
                 Console.WriteLine($"{c} la so lon nhat trong ba so ban vua nhap");
             }
-            /*int max = a;
+            int max = a;
             if (b > max)
             {
                 max = b;
@@ -57,7 +57,7 @@ namespace TRANNGOCTHUYNGAN_31231023211_24C1INF50900503
             { 
             max = c;
             }
-            Console.WriteLine($"{max} la so lon nhat trong ba so ban vua nhap");*/
+            Console.WriteLine($"{max} la so lon nhat trong ba so ban vua nhap");
 
 
        }
